@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🙋‍♀️ This is a data science group for working on group projects in the BHDS2010 course at Brown University.
+🙋‍♀️ This is a data science organization idea with predominant focus on R.
 
-🍿 We are a group that enjoy working on some statistical problems, especially problems linked to Public Health. 
+🍿 We are a group that enjoy working on some statistical problems with emphasis on spatial and Public Health issues. 
 
 <!--
 🌈 Contribution guidelines - how can the community get involved?
